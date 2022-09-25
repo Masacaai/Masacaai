@@ -45,3 +45,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masacaai&theme=cobalt&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masacaai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :writing_hand: Blog Posts :
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
