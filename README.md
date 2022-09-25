@@ -40,7 +40,7 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: My stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masacaai&theme=cobalt&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
 
