@@ -50,4 +50,8 @@
 
 ### :writing_hand: Recent blog posts :
 <!-- BLOG-POST-LIST:START -->
+- [I’ve returned!](https://aaqel.xyz/ive-returned/)
+- [Python: The Game](https://aaqel.xyz/python-the-game/)
+- [Housekeeping](https://aaqel.xyz/housekeeping/)
+- [WordPress is weird](https://aaqel.xyz/wordpress-is-weird/)
 <!-- BLOG-POST-LIST:END -->
