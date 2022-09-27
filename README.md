@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Website-red?style=for-the-badge" alt="Website Badge"/>
   </a>
 </div>
-<div align="center"><img src="https://komarev.com/ghpvc/?username=masacaai&style=flat-square&color=blue" alt=""/></div>
 <h1 align="center">
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -38,20 +37,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :fire: Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=masacaai&theme=cobalt&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masacaai&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-### :writing_hand: Recent blog posts :
-<!-- BLOG-POST-LIST:START -->
-- [I’ve returned!](https://aaqel.xyz/ive-returned/)
-- [Python: The Game](https://aaqel.xyz/python-the-game/)
-- [Housekeeping](https://aaqel.xyz/housekeeping/)
-- [WordPress is weird](https://aaqel.xyz/wordpress-is-weird/)
-<!-- BLOG-POST-LIST:END -->
