@@ -15,11 +15,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-- :book: My name's Aaqel, and I'm trekking through the wilderness of knowledge to obtain my bachelor's degree
+- :book: My name's Aaqel, and welcome to my Github profile!
 - 🔭 I’m currently working on creating a minesweeper clone and training a neural network to play it
 - 🌱 Right now, I’m learning assembly programming and PyTorch
 - 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: I think pointers are cool! It makes life so much easier when you're able to redirect a pointer rather than having to individually swap data from two different containers
 
 ---
 
@@ -37,6 +36,4 @@
 
 ---
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masacaai&layout=compact&theme=tokyonight" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masacaai&layout=compact&theme=tokhyonight)](https://github.com/anuraghazra/github-readme-stats)
