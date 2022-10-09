@@ -18,7 +18,6 @@
 - :book: My name's Aaqel, and welcome to my Github profile!
 - 🔭 I’m currently working on creating a minesweeper clone and training a neural network to play it
 - 🌱 Right now, I’m learning assembly programming and PyTorch
-- 😄 Pronouns: (He/Him)
 
 ---
 
