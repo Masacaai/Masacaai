@@ -16,8 +16,8 @@
 </h1>
 
 - :book: My name's Aaqel, and welcome to my Github profile!
-- 🔭 I’m currently working on creating a minesweeper clone and training a neural network to play it
-- 🌱 Right now, I’m learning assembly programming and PyTorch
+- 🔭 I’m currently working on Goldmine, an automatic assertion generation tool for hardware programs.
+- 🌱 Right now, I’m learning Rust!
 
 ---
 
@@ -31,6 +31,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nixos/nixos-original.svg" title="NixOS" alt="NixOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
 
 ---
