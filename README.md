@@ -16,7 +16,7 @@
 </h1>
 
 - :book: My name's Aaqel, and welcome to my Github profile!
-- 🔭 I’m currently working on Goldmine, an automatic assertion generation tool for hardware programs.
+- 🔭 I’m currently working on {coming soon!}.
 - 🌱 Right now, I’m learning Rust!
 
 ---
