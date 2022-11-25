@@ -16,7 +16,8 @@
 </h1>
 
 - :book: My name's Aaqel, and welcome to my Github profile!
-- 🌱 Right now, I’m learning Rust!
+- 🌱 I’m currently learning Rust!
+- 🔬 Check out CS-398 and MATH-496 in the 'College' repository for my recent research projects!
 
 ---
 
